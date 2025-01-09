@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m a passionate mid-level programmer with<br>a growing skill set in game development and software engineering.<br>My journey started in Unreal and Unity, where I've worked on bringing<br>virtual worlds to life. Now, I’m leveling up my coding game as a<br>student at 42 Madrid, diving deeper into the realms of computer<br>science and software development.
+👋 Hi there! I’m a passionate mid-level programmer with<br>a growing skill set in game development and software engineering.<br>My journey started in Unreal and Unity, where I've worked on bringing<br>virtual worlds to life. Now, I’m leveling up my coding abilities as a<br>student at 42 Madrid, diving deeper into the realms of computer<br>science and software development.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-fern%C3%A1ndez-correa-068884200/)
