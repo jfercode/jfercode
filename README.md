@@ -30,6 +30,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jfercode&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![snake gif](https://github.com/jfercode/jfercode/blob/output/github-snake-dark.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=jfercode&icon=10&color=13)](https://visitcount.itsvg.in)
 
