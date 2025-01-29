@@ -8,10 +8,14 @@
 
 <!-- TO DO: use icons for each technology -->
 # 💻 Tech Stack:
-
-<!--! C [image](https://github.com/user-attachments/assets/de6b8aa5-189b-4b5c-9210-feb0396df206) -->
-
-<!--! Python [image](https://github.com/user-attachments/assets/c8c67d94-4db9-4a14-bc45-b9370fcd05fe) -->
+<!--
+![C](https://github.com/user-attachments/assets/de6b8aa5-189b-4b5c-9210-feb0396df206)
+![C#](https://github.com/user-attachments/assets/9779684e-2a6c-467a-ad49-919018555519)
+![C++](https://github.com/user-attachments/assets/7c426189-9174-416d-879c-6464a70beca5)
+![Bash](https://github.com/user-attachments/assets/7f1141d4-1128-4840-bd59-0995f9c1c92b)
+![Powershell](https://github.com/user-attachments/assets/ec889298-31a0-4fb0-85e8-341d4039a248)
+![Python](https://github.com/user-attachments/assets/c8c67d94-4db9-4a14-bc45-b9370fcd05fe) 
+-->
 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
