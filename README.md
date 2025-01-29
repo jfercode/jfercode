@@ -6,14 +6,13 @@ Now, I’m leveling up my coding abilities as a student at 42 Madrid, diving dee
 
 # 💻 Tech Stack:
 
-<div align="center">
+<div align="center" style="text-decoration: none;">
   <img src="https://github.com/user-attachments/assets/de6b8aa5-189b-4b5c-9210-feb0396df206" width="100"/>
   <img src="https://github.com/user-attachments/assets/84099414-21b8-405f-9489-2c75b96cefab" width="100"/>
   <img src="https://github.com/user-attachments/assets/75b52b90-046d-4c33-9c75-df5aa4832e84" width="100"/>
   <img src="https://github.com/user-attachments/assets/c8c67d94-4db9-4a14-bc45-b9370fcd05fe" width="100"/>
-</div>
 <br>
-<div align="center">
+<br>
   <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
@@ -43,13 +42,14 @@ Now, I’m leveling up my coding abilities as a student at 42 Madrid, diving dee
 
 ## 📥 Contact me 
 
-<div align="center">
-  <a href="mailto:jaferna2@student.42madrid.com">
+<div align="center" style="text-decoration: none;">
+  <a href="mailto:jaferna2@student.42madrid.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  <a href="https://instagram.com/jfernandez_47">
+  </a>
+  <a href="https://instagram.com/jfernandez_47" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/javier-fern%C3%A1ndez-correa-068884200/">
+  <a href="https://www.linkedin.com/in/javier-fern%C3%A1ndez-correa-068884200/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
