@@ -23,7 +23,8 @@ Now, I’m leveling up my coding abilities as a student at 42 Madrid, diving dee
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jfercode&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jfercode&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jfercode&theme=dark&hide_border=false)
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jfercode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -45,7 +46,6 @@ Now, I’m leveling up my coding abilities as a student at 42 Madrid, diving dee
 <div align="center">
   <a href="mailto:jaferna2@student.42madrid.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
   <a href="https://instagram.com/jfernandez_47">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
