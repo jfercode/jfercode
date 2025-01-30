@@ -37,7 +37,7 @@ Now, I’m leveling up my coding abilities as a student at 42 Madrid, diving dee
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=jfercode&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<br>
 ![snake gif](https://github.com/jfercode/jfercode/blob/output/github-snake-dark.svg)
 
 ## 📥 Contact me 
