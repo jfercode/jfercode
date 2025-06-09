@@ -10,8 +10,6 @@ Currently, I’m **expanding my skill set** as a student at _42 Madrid_, delving
 
 As part of my journey at 42 Madrid, I have been working on a variety of projects that challenge me to deepen my understanding of programming, algorithms, and collaboration. Below is a table highlighting some of the most relevant projects I am currently involved in. Each project represents a new opportunity to grow as a programmer and to develop my skills in the world of technology.
 
----
-
 <details>
   <summary>0️⃣ Level 0</summary>
 
@@ -67,8 +65,8 @@ As part of my journey at 42 Madrid, I have been working on a variety of projects
 | cub3D 🧱🕹️           | <!-- [Repository](https://github.com/jfercode/42-cub3D) -->         🚧🚧🚧   | —              | 🚧 In progress |
 
 </details>
----
 
+---
 
 # 💻 Tech Stack:
 
