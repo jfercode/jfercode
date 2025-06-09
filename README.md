@@ -63,7 +63,7 @@ As part of my journey at 42 Madrid, I have been working on a variety of projects
 | CPP Module 03 🔁     | <!-- [Repository](https://github.com/jfercode/42-CPP-Module-03) --> 🚧🚧🚧   | —              | 🚧 In progress |
 | CPP Module 04 🎭     | <!-- [Repository](https://github.com/jfercode/42-CPP-Module-04) --> 🚧🚧🚧   | —              | 🚧 In progress |
 | cub3D 🧱🕹️           | <!-- [Repository](https://github.com/jfercode/42-cub3D) -->         🚧🚧🚧   | —              | 🚧 In progress |
-
+| netpractice 🕸️       | —  | —              | ⏳ To Do |
 </details>
 
 ---
