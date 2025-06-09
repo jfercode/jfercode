@@ -1,8 +1,74 @@
 # 💫 About Me:
-👋 Hi there! I’m a passionate mid-level programmer with a growing skill set in game development and software engineering. My journey started in Unreal and Unity, where I've worked on bringing virtual worlds to life. 
+
+👋 **Hi there!** 
+
+I am a **mid-level programmer** passionate about _game development_ and **software engineering**. My journey began by creating virtual worlds in **Unreal** and **Unity**, where I enjoyed bringing ideas to life through code.
+
 <br>
-<br>
-Now, I’m leveling up my coding abilities as a student at 42 Madrid, diving deeper into the realms of computer science and software development.
+
+Currently, I’m **expanding my skill set** as a student at _42 Madrid_, delving deeper into the fundamentals and challenges of **computer science** and **software development**. I’m always looking for **new challenges** that push my personal and professional growth.
+
+As part of my journey at 42 Madrid, I have been working on a variety of projects that challenge me to deepen my understanding of programming, algorithms, and collaboration. Below is a table highlighting some of the most relevant projects I am currently involved in. Each project represents a new opportunity to grow as a programmer and to develop my skills in the world of technology.
+
+---
+
+<details>
+  <summary>0️⃣ Level 0</summary>
+
+| Project              | Link                                                                | Score          | Status        |
+|----------------------|---------------------------------------------------------------------|----------------|---------------|
+| Libft 📚✨            | [View repository](https://github.com/jfercode/42-Cursus-Libft)      | 125/100 ✅⭐    | Completed ✅  |
+  
+</details>
+
+<details>
+  <summary>1️⃣ Level 1</summary>
+
+| Project              | Link                                                                | Score          | Status        |
+|----------------------|---------------------------------------------------------------------|----------------|---------------|
+| Printf 🖨️            | [View repository](https://github.com/jfercode/42-Printf)            | 100/100 ✅     | Completed ✅  |
+| Get Next Line 📜      | [View repository](https://github.com/jfercode/42-Get-Next-Line)     | 125/100 ✅⭐    | Completed ✅  |
+| Born 2 Be Root 🖥️🔒  | —                                                                   | 125/100 ✅⭐    | Completed ✅  |
+  
+</details>
+
+<details>
+  <summary>2️⃣ Level 2</summary>
+
+| Project              | Link                                                                | Score          | Status        |
+|----------------------|---------------------------------------------------------------------|----------------|---------------|
+| Push Swap 🔄          | [View repository](https://github.com/jfercode/42-Push-swap)         | 100/100 ✅     | Completed ✅  |
+| Pipex 🚰              | [View repository](https://github.com/jfercode/42-Pipex)             | 125/100 ✅⭐    | Completed ✅  |
+| Minitalk 📡           | [View repository](https://github.com/jfercode/42-Minitalk)          | 125/100 ✅⭐    | Completed ✅  |
+| So Long 🎮🛤️         | [View repository](https://github.com/jfercode/42-So-Long)           | 125/125 ✅⭐    | Completed ✅  |
+
+</details>
+
+<details>
+  <summary>3️⃣ Level 3</summary>
+
+| Project              | Link                                                                | Score          | Status        |
+|----------------------|---------------------------------------------------------------------|----------------|---------------|
+| Philosophers 🍽️🧠    | [View repository](https://github.com/jfercode/42-Philosophers)      | 100/100 ✅     | Completed ✅  |
+| Minishell 🚀🖥️📘      | [View repository](https://github.com/jfercode/42-Minishell)         | 100/100 ✅     | Completed ✅  |
+
+</details>
+
+<details>
+  <summary>4️⃣ Level 4 (In progress)</summary>
+
+| Project              | Link                                                                | Score          | Status         |
+|----------------------|---------------------------------------------------------------------|----------------|----------------|
+| CPP Module 00 🧩     | <!-- [Repository](https://github.com/jfercode/42-CPP-Module-00) --> 🚧🚧🚧   | —              | 🚧 In progress |
+| CPP Module 01 🧠     | <!-- [Repository](https://github.com/jfercode/42-CPP-Module-01) --> 🚧🚧🚧   | —              | 🚧 In progress |
+| CPP Module 02 ⚙️     | <!--[Repository](https://github.com/jfercode/42-CPP-Module-02) -->  🚧🚧🚧   | —              | 🚧 In progress |
+| CPP Module 03 🔁     | <!-- [Repository](https://github.com/jfercode/42-CPP-Module-03) --> 🚧🚧🚧   | —              | 🚧 In progress |
+| CPP Module 04 🎭     | <!-- [Repository](https://github.com/jfercode/42-CPP-Module-04) --> 🚧🚧🚧   | —              | 🚧 In progress |
+| cub3D 🧱🕹️           | <!-- [Repository](https://github.com/jfercode/42-cub3D) -->         🚧🚧🚧   | —              | 🚧 In progress |
+
+</details>
+---
+
 
 # 💻 Tech Stack:
 
