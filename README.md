@@ -7,14 +7,14 @@
 <img src="https://github.com/user-attachments/assets/0a00ff5a-a379-4641-94f4-25aaab4990ac" alt="banner" width="800"/>
 
 <br>
+<br>
 
 I am a **mid-level programmer** passionate about _game development_ and **software engineering**. My journey began by creating virtual worlds in **Unreal** and **Unity**, where I enjoyed bringing ideas to life through code.
-
-<br>
 
 Currently, I’m **expanding my skill set** as a student at _42 Madrid_, delving deeper into the fundamentals and challenges of **computer science** and **software development**. I’m always looking for **new challenges** that push my personal and professional growth.
 
 As part of my journey at 42 Madrid, I have participated in a variety of projects that have strengthened my skills in programming, algorithms, and teamwork. Below is an overview of the most relevant projects I have completed or am currently working on. Each project has contributed to my growth as a programmer and my passion for technology.
+
 
 <details>
   <summary>0️⃣ Level 0</summary>
@@ -72,7 +72,7 @@ As part of my journey at 42 Madrid, I have participated in a variety of projects
 | netpractice 🕸️       | —  | —              | ⏳ To Do |
 </details>
 
----
+<br>
 
 # 💻 Tech Stack:
 
