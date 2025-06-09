@@ -1,8 +1,12 @@
 # 💫 About Me:
 
-👋 **Hi there!** 
+👋 **Hello, world... or was it Github?** 
+
+<br>
 
 <img src="https://github.com/user-attachments/assets/0a00ff5a-a379-4641-94f4-25aaab4990ac" alt="banner" width="800"/>
+
+<br>
 
 I am a **mid-level programmer** passionate about _game development_ and **software engineering**. My journey began by creating virtual worlds in **Unreal** and **Unity**, where I enjoyed bringing ideas to life through code.
 
