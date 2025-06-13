@@ -70,8 +70,8 @@ As part of my journey at 42 Madrid, I have participated in a variety of projects
 | CPP Module 02 ⚙️     | <!--[Repository](https://github.com/jfercode/42-CPP-Module-02) -->  🚧🚧🚧   | —              | 🚧 In progress |
 | CPP Module 03 🔁     | <!-- [Repository](https://github.com/jfercode/42-CPP-Module-03) --> 🚧🚧🚧   | —              | 🚧 In progress |
 | CPP Module 04 🎭     | <!-- [Repository](https://github.com/jfercode/42-CPP-Module-04) --> 🚧🚧🚧   | —              | 🚧 In progress |
-| cub3D 🧱🕹️           | <!-- [Repository](https://github.com/jfercode/42-cub3D) -->         🚧🚧🚧   | —              | 🚧 In progress |
-| netpractice 🕸️       | —  | —              | ⏳ To Do |
+| cub3D 🧱🕹️           | <!-- [Repository](https://github.com/jfercode/42-cub3D) -->         🚧🚧🚧  | —              | 🚧 In progress |
+| netpractice 🕸️       | [Repository](https://github.com/jfercode/42-NetPractice)                      | —              | ⏳ To Do |
 </details>
 
 <br>
