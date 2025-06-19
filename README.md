@@ -65,7 +65,7 @@ As part of my journey at 42 Madrid, I have participated in a variety of projects
 
 | Project              | Link                                                                | Score          | Status         |
 |----------------------|---------------------------------------------------------------------|----------------|----------------|
-| CPP Module 00 🧩     | <!-- [Repository](https://github.com/jfercode/42-CPP-Module-00) --> 🚧🚧🚧   | —              | 🚧 In progress |
+| CPP Module 00 🧩     | [Repository](https://github.com/jfercode/42-CPP-Module-00)          | 100/100 ✅     | Completed ✅   |
 | CPP Module 01 🧠     | <!-- [Repository](https://github.com/jfercode/42-CPP-Module-01) --> 🚧🚧🚧   | —              | 🚧 In progress |
 | CPP Module 02 ⚙️     | <!--[Repository](https://github.com/jfercode/42-CPP-Module-02) -->  🚧🚧🚧   | —              | 🚧 In progress |
 | CPP Module 03 🔁     | <!-- [Repository](https://github.com/jfercode/42-CPP-Module-03) --> 🚧🚧🚧   | —              | 🚧 In progress |
