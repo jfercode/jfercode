@@ -67,11 +67,11 @@ As part of my journey at 42 Madrid, I have participated in a variety of projects
 |----------------------|---------------------------------------------------------------------|----------------|----------------|
 | CPP Module 00 🧩     | [Repository](https://github.com/jfercode/42-CPP-Module-00)          | 100/100 ✅     | Completed ✅   |
 | CPP Module 01 🧠     | [Repository](https://github.com/jfercode/42-CPP-Module-01)          | 100/100 ✅     | Completed ✅   |
-| CPP Module 02 ⚙️      |  [Repository](https://github.com/jfercode/42-CPP-Module-02)         | 100/100 ✅     | Completed ✅   |
-| CPP Module 03 🔁     | <!-- [Repository](https://github.com/jfercode/42-CPP-Module-03) --> 🚧🚧🚧   | —              | 🚧 In progress |
-| CPP Module 04 🎭     | <!-- [Repository](https://github.com/jfercode/42-CPP-Module-04) --> 🚧🚧🚧   | —              | 🚧 In progress |
+| CPP Module 02 ⚙️      |  [Repository](https://github.com/jfercode/42-CPP-Module-02)        | 100/100 ✅     | Completed ✅   |
+| CPP Module 03 🔁     | [Repository](https://github.com/jfercode/42-CPP-Module-03)          | 100/100 ✅     | Completed ✅   |
+| CPP Module 04 🎭     | [Repository](https://github.com/jfercode/42-CPP-Module-04)          | 100/100 ✅     | Completed ✅   |
 | cub3D 🧱🕹️           | <!-- [Repository](https://github.com/jfercode/42-cub3D) -->         🚧🚧🚧  | —              | 🚧 In progress |
-| netpractice 🕸️       | [Repository](https://github.com/jfercode/42-NetPractice)                      | —              | ⏳ To Do |
+| netpractice 🕸️       | [Repository](https://github.com/jfercode/42-NetPractice)            | —              | ⏳ To Do |
 </details>
 
 <br>
