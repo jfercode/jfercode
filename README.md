@@ -63,8 +63,8 @@ Below is a curated list of my most significant projects throughout the 42 curric
 | CPP Module 02 ⚙️   | [Repository](https://github.com/jfercode/42-CPP-Module-02)           | 100/100 ✅  | Completed ✅ |
 | CPP Module 03 🔁   | [Repository](https://github.com/jfercode/42-CPP-Module-03)           | 100/100 ✅  | Completed ✅ |
 | CPP Module 04 🎭   | [Repository](https://github.com/jfercode/42-CPP-Module-04)           | 100/100 ✅  | Completed ✅ |
-| Cube3D 🧱🕹️        | <!--[Repository](https://github.com/jfercode/42-CPP-Module-04)-->🧪 In Progress | 125/125 ✅⭐ | Completed ✅ |
-| netpractice 🕸️    | [Repository](https://github.com/jfercode/42-NetPractice)             | 100/100 ✅          | Completed ✅ |
+| Cube3D 🧱🕹️        | [Repository](https://github.com/jfercode/42-Cube3D)                  | 125/125 ✅⭐| Completed ✅ |
+| netpractice 🕸️     | [Repository](https://github.com/jfercode/42-NetPractice)             | 100/100 ✅ | Completed ✅  |
 </details>
 
 <details>
@@ -72,13 +72,13 @@ Below is a curated list of my most significant projects throughout the 42 curric
 
 | Project             | Link                                                  | Score         | Status         |
 |---------------------|-------------------------------------------------------|---------------|----------------|
-| CPP Module 05 🧠🔐    | <!-- [Repository](https://github.com/youruser/42-CPP-Module-05) --> 🧪 In Progress  | —             | 🗂️ Ready to Submit       |
-| CPP Module 06 🧪🧬    | <!-- [Repository](https://github.com/youruser/42-CPP-Module-06) --> 🧪 In Progress  | —             | 🗂️ Ready to Submit      |
-| CPP Module 07 ♻️🧱    | <!-- [Repository](https://github.com/youruser/42-CPP-Module-07) --> 🧪 In Progress  | —             | 🗂️ Ready to Submit      |
-| CPP Module 08 🧩🧠    | <!-- [Repository](https://github.com/youruser/42-CPP-Module-08) --> 📝TO DO | —             | 🧪 In Progress       |
-| CPP Module 09 🛠️🧪    | <!-- [Repository](https://github.com/jfercode/42-CPP-Module-09) --> 📝 TO DO | —             | 🧪 In Progress       |
-| Webserv 🌐🔥📄        | <!-- [Repository](https://github.com/youruser/42-webserv) -->  📝 TO DO | —             | 📝 TO DO       |
-| Inception 🐳📦🧱       | <!-- [Repository](https://github.com/jfercode/42-Inception) --> 🧪 In Progress      | —             | 🧪 In Progress           |
+| CPP Module 05 🧠🔐    | <!-- [Repository](https://github.com/youruser/42-CPP-Module-05) --> 🧪 In Progress  | —             | 🗂️ Ready to Submit   |
+| CPP Module 06 🧪🧬    | <!-- [Repository](https://github.com/youruser/42-CPP-Module-06) --> 🧪 In Progress  | —             | 🗂️ Ready to Submit   |
+| CPP Module 07 ♻️🧱    | <!-- [Repository](https://github.com/youruser/42-CPP-Module-07) --> 🧪 In Progress  | —             | 🗂️ Ready to Submit   |
+| CPP Module 08 🧩🧠    | <!-- [Repository](https://github.com/youruser/42-CPP-Module-08) --> 🧪 In Progress  | —             | 🗂️ Ready to Submit   |
+| CPP Module 09 🛠️🧪    | <!-- [Repository](https://github.com/jfercode/42-CPP-Module-09) --> 📝 TO DO        | —             | 🧪 In Progress       |
+| Webserv 🌐🔥📄        | <!-- [Repository](https://github.com/youruser/42-webserv) -->  📝 TO DO             | —             | 📝 TO DO             |
+| Inception 🐳📦🧱       | <!-- [Repository](https://github.com/jfercode/42-Inception) --> 🧪 In Progress     | —             | 🧪 In Progress       |
 
 </details>
 
