@@ -72,7 +72,7 @@ Below is a curated list of my most significant projects throughout the 42 curric
 
 | Project             | Link                                                  | Score         | Status         |
 |---------------------|-------------------------------------------------------|---------------|----------------|
-| CPP Module 05 🧠🔐    | <!-- [Repository](https://github.com/youruser/42-CPP-Module-05) --> 🧪 In Progress  | —             | 🗂️ Ready to Submit   |
+| CPP Module 05 🧠🔐    | [Repository](https://github.com/jfercode/42-CPP-Module-05) |100/100 ✅  | Completed ✅|
 | CPP Module 06 🧪🧬    | <!-- [Repository](https://github.com/youruser/42-CPP-Module-06) --> 🧪 In Progress  | —             | 🗂️ Ready to Submit   |
 | CPP Module 07 ♻️🧱    | <!-- [Repository](https://github.com/youruser/42-CPP-Module-07) --> 🧪 In Progress  | —             | 🗂️ Ready to Submit   |
 | CPP Module 08 🧩🧠    | <!-- [Repository](https://github.com/youruser/42-CPP-Module-08) --> 🧪 In Progress  | —             | 🗂️ Ready to Submit   |
