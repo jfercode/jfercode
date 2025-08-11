@@ -64,7 +64,7 @@ Below is a curated list of my most significant projects throughout the 42 curric
 | CPP Module 03 🔁   | [Repository](https://github.com/jfercode/42-CPP-Module-03)           | 100/100 ✅  | Completed ✅ |
 | CPP Module 04 🎭   | [Repository](https://github.com/jfercode/42-CPP-Module-04)           | 100/100 ✅  | Completed ✅ |
 | Cube3D 🧱🕹️        | [Repository](https://github.com/jfercode/42-Cube3D)                  | 125/125 ✅⭐| Completed ✅ |
-| netpractice 🕸️     | [Repository](https://github.com/jfercode/42-NetPractice)             | 100/100 ✅ | Completed ✅  |
+| netpractice 🌐     | [Repository](https://github.com/jfercode/42-NetPractice)             | 100/100 ✅ | Completed ✅  |
 </details>
 
 <details>
