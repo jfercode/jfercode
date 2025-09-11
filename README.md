@@ -77,8 +77,8 @@ Below is a curated list of my most significant projects throughout the 42 curric
 | CPP Module 07 ♻️   |  [Repository](https://github.com/jfercode/42-CPP-Module-07) |100/100 ✅  | Completed ✅|
 | CPP Module 08 📦   | [Repository](https://github.com/jfercode/42-CPP-Module-08)  |100/100 ✅  | Completed ✅|
 | CPP Module 09 🏗️   | [Repository](https://github.com/jfercode/42-CPP-Module-09)  |100/100 ✅  | Completed ✅|
-| Webserv 🌐🔥📄        | <!-- [Repository](https://github.com/youruser/42-webserv) -->  📝 TO DO             | —             | 📝 TO DO             |
-| Inception 🐳📦🧱       | <!-- [Repository](https://github.com/jfercode/42-Inception) --> 🧪 In Progress     | —             | 🧪 In Progress       |
+| Webserv 🌐🔥📄        | <!-- [Repository](https://github.com/youruser/42-webserv) -->  📝 TO DO             | —        | 📝 TO DO |
+| Inception 🐳📦🧱       | [Repository](https://github.com/jfercode/42-Inception) |100/100 ✅  | Completed ✅|  |
 
 </details>
 
