@@ -77,7 +77,7 @@ Below is a curated list of my most significant projects throughout the 42 curric
 | CPP Module 07 ♻️   |  [Repository](https://github.com/jfercode/42-CPP-Module-07) |100/100 ✅  | Completed ✅|
 | CPP Module 08 📦   | [Repository](https://github.com/jfercode/42-CPP-Module-08)  |100/100 ✅  | Completed ✅|
 | CPP Module 09 🏗️   | [Repository](https://github.com/jfercode/42-CPP-Module-09)  |100/100 ✅  | Completed ✅|
-| Webserv 🌐🔥📄        | <!-- [Repository](https://github.com/youruser/42-webserv) -->  📝 TO DO             | —        | 📝 TO DO |
+| Webserv 🌐🔥📄        | <!-- [Repository](https://github.com/youruser/42-webserv) -->  🚧🚧🚧            | DOING        | 🚧🚧🚧|
 | Inception 🐳📦🧱       | [Repository](https://github.com/jfercode/42-Inception) |100/100 ✅  | Completed ✅|  |
 
 </details>
@@ -100,6 +100,8 @@ Below is a curated list of my most significant projects throughout the 42 curric
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"/>
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
+  
 </div>
 ### 🛠️ Stack Highlights
 
