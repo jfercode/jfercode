@@ -103,6 +103,7 @@ Below is a curated list of my most significant projects throughout the 42 curric
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
   
 </div>
+
 ### 🛠️ Stack Highlights
 
 - **Languages:** C, C++, C#, Bash
