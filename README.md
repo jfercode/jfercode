@@ -10,6 +10,8 @@ I’m a **mid-level software developer** passionate about _game development_, **
 
 🎓 Currently studying at **42 Madrid**, I’m committed to tackling algorithmic, system-level, and team-based challenges. Every new project is a chance to grow and refine my technical and collaborative skills.
 
+Visit my portfolio: https://jfercode.github.io/jfercode-web/
+
 _Last updated: 2025-12-29_
 
 ---
