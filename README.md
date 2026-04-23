@@ -8,20 +8,23 @@
 
 I’m a **mid-level software developer** passionate about _game development_, **low-level programming**, and systems engineering. My journey began building interactive experiences with **Unreal Engine** and **Unity**, and has evolved into a deep dive into **computer science** fundamentals.
 
-🎓 Currently studying at **42 Madrid**, I’m committed to tackling algorithmic, system-level, and team-based challenges. Every new project is a chance to grow and refine my technical and collaborative skills.
+💼 Currently working as **Embedded System Software Testing Engineer** in **Expleo Group**, I’m committed to tackling algorithmic, system-level, and team-based challenges. Every new project is a chance to grow and refine my technical and collaborative skills.
 
 Visit my portfolio: https://jfercode.github.io/jfercode-web/
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-04-24_
 
 ---
 
 ## 🧩 42 Cursus Progress
 
 Below is a curated list of my most significant projects throughout the 42 curriculum. Each one represents a milestone in my learning journey, combining teamwork, algorithmic thinking, and technical execution.
-
 <details>
-  <summary>Level 0️⃣</summary>
+
+  <summary> 42 Cursus </summary>
+<br>
+<details>
+  <summary>  Level 0️⃣</summary>
 
 | Project      | Link                                                                     | Score       | Status       |
 |--------------|--------------------------------------------------------------------------|-------------|--------------|
@@ -29,7 +32,7 @@ Below is a curated list of my most significant projects throughout the 42 curric
 </details>
 
 <details>
-  <summary>Level 1️⃣</summary>
+  <summary>  Level 1️⃣</summary>
 
 | Project           | Link                                                               | Score       | Status       |
 |------------------|--------------------------------------------------------------------|-------------|--------------|
@@ -39,7 +42,7 @@ Below is a curated list of my most significant projects throughout the 42 curric
 </details>
 
 <details>
-  <summary>Level 2️⃣</summary>
+  <summary>  Level 2️⃣</summary>
 
 | Project        | Link                                                                  | Score       | Status       |
 |----------------|-----------------------------------------------------------------------|-------------|--------------|
@@ -50,7 +53,7 @@ Below is a curated list of my most significant projects throughout the 42 curric
 </details>
 
 <details>
-  <summary>Level 3️⃣</summary>
+  <summary>  Level 3️⃣</summary>
 
 | Project         | Link                                                                   | Score       | Status       |
 |-----------------|------------------------------------------------------------------------|-------------|--------------|
@@ -59,7 +62,7 @@ Below is a curated list of my most significant projects throughout the 42 curric
 </details>
 
 <details>
-  <summary>Level 4️⃣</summary>
+  <summary>  Level 4️⃣</summary>
 
 | Project           | Link                                                                 | Score       | Status       |
 |-------------------|----------------------------------------------------------------------|-------------|--------------|
@@ -73,7 +76,7 @@ Below is a curated list of my most significant projects throughout the 42 curric
 </details>
 
 <details>
-  <summary>Level 5️⃣</summary>
+  <summary>  Level 5️⃣</summary>
 
 | Project             | Link                                                  | Score         | Status         |
 |---------------------|-------------------------------------------------------|---------------|----------------|
@@ -87,11 +90,12 @@ Below is a curated list of my most significant projects throughout the 42 curric
 </details>
 
 <details>
-  <summary>Level 6️⃣</summary>
+  <summary>  Level 6️⃣</summary>
 
 | Project             | Link                                                  | Score         | Status         |
 |---------------------|-------------------------------------------------------|---------------|----------------|
 | ft_transcendence 🚧 | — (In progress)                                       | DOING         | 🚧 In progress |
+</details>
 </details>
 
 ---
@@ -144,7 +148,7 @@ Below is a curated list of my most significant projects throughout the 42 curric
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-
+<!-- --> 
 ## 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=jfercode&limit=5&theme=dark&combine_all_yearly_contributions=true)
